@@ -1,0 +1,64 @@
+- [X] Sulfuric
+- [X] Saturn
+- [X] Clumps
+- [X] Ferrite Core
+- [X] LazyDFU
+- [X] Spark
+- [X] Fastsuite
+- [X] Blame
+- [X] Smooth Boost
+- [X] Performant
+
+- [X] Cosmetic Armour
+- [X] Quark
+- [X] Charm
+- [X] Champions
+- [X] Callable Horses
+- [X] Corpse
+- [X] Comforts
+- [ ] Journeymap
+- [ ] Not Enough Animations
+- [ ] Yungs Extras
+- [ ] Yungs Better Dungeons
+- [ ] SwingThroughGrass
+- [ ] Gateways to Eternity
+- [ ] Chisels And Bits
+- [ ] Supplementaries
+- [ ] Crumbs
+- [ ] Enviromental Building Materials
+- [ ] Horse Combat
+- [ ] Velocity Based Damage
+- [ ] Dynamic lights
+- [ ] Project: Vibrant Journeys
+- [ ] Sapience
+- [ ] Save My Stronghold!
+- [ ] Healing Campfire
+- [ ] Second Chance
+- [ ] Rare Ice
+- [ ] Dual Riding
+- [X] EPIC-KNIGHTS
+- [X] Subterranean Wilderness
+- [ ] Yungs better caves
+- [ ] Yungs better mineshafts
+- [ ] Yungs better stronghold
+- [X] Yungs Extras
+- [X] Terraforged
+- [X] Dynamic surroundings
+- [X] Dynamic trees
+- [X] Valhesia Structures
+- [X] Spartan weaponry
+- [X] Spartan Shields
+- [X] Mowzies Mobs
+- [X] Ars Nouveau
+
+
+- [ ] Create
+- [ ] ice and fire
+- [ ] and CC:tweaked
+
+# deps
+
+- [X] Valk. Lib
+- [X] Valh. Core 
+- [X] Yungs API
+- 
