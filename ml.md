@@ -16,31 +16,31 @@
 - [X] Callable Horses
 - [X] Corpse
 - [X] Comforts
-- [ ] Journeymap
-- [ ] Not Enough Animations
-- [ ] Yungs Extras
-- [ ] Yungs Better Dungeons
-- [ ] SwingThroughGrass
-- [ ] Gateways to Eternity
-- [ ] Chisels And Bits
-- [ ] Supplementaries
-- [ ] Crumbs
-- [ ] Enviromental Building Materials
-- [ ] Horse Combat
-- [ ] Velocity Based Damage
-- [ ] Dynamic lights
-- [ ] Project: Vibrant Journeys
-- [ ] Sapience
-- [ ] Save My Stronghold!
-- [ ] Healing Campfire
-- [ ] Second Chance
-- [ ] Rare Ice
-- [ ] Dual Riding
+- [X] Journeymap
+- [X] Not Enough Animations
+- [X] Yungs Extras
+- [X] Yungs Better Dungeons
+- [X] SwingThroughGrass
+- [X] Gateways to Eternity
+- [X] Chisels And Bits
+- [X] Supplementaries
+- [X] Crumbs
+- [X] Enviromental Building Materials
+- [X] Horse Combat
+- [X] Velocity Based Damage
+- [X] Dynamic lights
+- [X] Project: Vibrant Journeys
+- [X] Sapience
+- [X] Save My Stronghold!
+- [X] Healing Campfire
+- [X] Second Chance
+- [X] Rare Ice
+- [X] Dual Riding
 - [X] EPIC-KNIGHTS
 - [X] Subterranean Wilderness
-- [ ] Yungs better caves
-- [ ] Yungs better mineshafts
-- [ ] Yungs better stronghold
+- [X] Yungs better caves
+- [X] Yungs better mineshafts
+- [X] Yungs better stronghold
 - [X] Yungs Extras
 - [X] Terraforged
 - [X] Dynamic surroundings
@@ -52,13 +52,15 @@
 - [X] Ars Nouveau
 
 
-- [ ] Create
-- [ ] ice and fire
-- [ ] and CC:tweaked
+- [X] Create
+- [X] ice and fire
+- [X] and CC:tweaked
 
 # deps
 
 - [X] Valk. Lib
 - [X] Valh. Core 
 - [X] Yungs API
-- 
+- [X] Placebo
+- [X] Citadel
+- [X] Flywheel
