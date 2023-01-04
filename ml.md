@@ -64,3 +64,9 @@
 - [X] Placebo
 - [X] Citadel
 - [X] Flywheel
+- [X] Geckolib3
+- [X] Curios
+- [X] Autoreglib
+- [X] Collective
+- [X] Selene
+- [X] Patchouli
