@@ -17,6 +17,8 @@ join the server.
 
 | Mod Name                 |    Version    | Notes                 |
 |:-------------------------|:-------------:|:----------------------|
+| Chipped                  |     2.0.1     |                       |
+| Framed Blocks            |    5.11.4     |                       | 
 | Epic Knights             |     7.11      |                       |
 | Alex's Delight           |     1.3.3     |                       |
 | Alex's Mobs              |    1.18.6     |                       |
