@@ -5,6 +5,16 @@ MAKE SURE TO VISIT ONLY https://www.curseforge.com/ LINKS
 
 
 # Mod list
+
+| Chipped                  |     2.0.1     |                       |
+| Framed Blocks            |    5.11.4     |
+
+## Chipped | 2.0.1
+- [Chipped on Curseforge](https://www.curseforge.com/minecraft/mc-mods/chipped/files/4293291)
+
+## Framed Blocks | 5.11.4
+- [Framed Blocks on Curseforge](https://www.curseforge.com/minecraft/mc-mods/framedblocks/download/4481607)
+
 ## Epic Knights | 7.11 
 
 - [4423960](https://www.curseforge.com/minecraft/mc-mods/epic-knights-armor-and-weapons/files/4423960)
