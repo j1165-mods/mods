@@ -4,6 +4,9 @@ WE ARE NOT RESPONSIBLE FOR ANY DAMAGE CAUSED BY FILES YOU DOWNLOAD FROM THIS FIL
 MAKE SURE TO VISIT ONLY https://www.curseforge.com/ LINKS
 
 
+## CTM / ConnectedTexturesMod | 2.1
+- [CTM on Curseforge](https://www.curseforge.com/minecraft/mc-mods/ctm/files/3933537)
+
 ## Serene Seasons | 7.0.0.15
 - [Serene Seasons on Curseforge](https://www.curseforge.com/minecraft/mc-mods/serene-seasons/download/3804257)
 
