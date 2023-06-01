@@ -4,10 +4,11 @@ WE ARE NOT RESPONSIBLE FOR ANY DAMAGE CAUSED BY FILES YOU DOWNLOAD FROM THIS FIL
 MAKE SURE TO VISIT ONLY https://www.curseforge.com/ LINKS
 
 
-# Mod list
+## Serene Seasons | 7.0.0.15
+- [Serene Seasons on Curseforge](https://www.curseforge.com/minecraft/mc-mods/serene-seasons/download/3804257)
 
-| Chipped                  |     2.0.1     |                       |
-| Framed Blocks            |    5.11.4     |
+## Dave's Potioneering | 0.17
+- [Dave's Potioneering on Curseforge](https://www.curseforge.com/minecraft/mc-mods/daves-potioneering/download/4491575)
 
 ## Chipped | 2.0.1
 - [Chipped on Curseforge](https://www.curseforge.com/minecraft/mc-mods/chipped/files/4293291)
