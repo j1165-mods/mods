@@ -15,38 +15,40 @@ join the server.
 
 28 total
 
-| Mod Name                 |    Version    | Notes                 |
-|:-------------------------|:-------------:|:----------------------|
-| Chipped                  |     2.0.1     |                       |
-| Framed Blocks            |    5.11.4     |                       | 
-| Epic Knights             |     7.11      |                       |
-| Alex's Delight           |     1.3.3     |                       |
-| Alex's Mobs              |    1.18.6     |                       |
-| Antique Atlas            |     7.1.1     |                       |
-| AppleSkin Forge          |     2.4.0     |                       |
-| Balm                     |     3.2.6     |                       |
-| Bookshelf Forge          |    13.2.53    |                       |
-| Champions Forge          |    1.11.3     |                       |
-| Cosmetic Armour Reworked |      v2a      |                       |
-| Create Brass Coated      |     0.2.2     | Requires Create       | 
-| Create                   |    0.5.0.i    | Requires Architectury |
-| Charm of Undying Forge   |    5.3.0.0    | Requires Curios API   | 
-| Customisable Elytra      |     1.6.7     |                       |
-| Dungeon Crawl            |    2.3.10     |                       |
-| Dynamic Trees            |     1.0.2     |                       |
-| Eureka!                  | 1.1.0 Beta 9  | Requires Valkyrien    |
-| Farmer's Delight         |     1.2.0     |                       |
-| First Aid                |    1.11.1     |                       |
-| Flywheel Forge           |    0.6.8.a    | Requires Create       | 
-| Immersive Weathering     |     3.0.3     |                       |
-| Infinidrill              |     1..16     |                       |
-| Runelic Forge            |    11.0.1     |                       |
-| Sound Physics Forge      |     1.0.6     |                       |
-| Steam Rails              |     1.2.6     |                       |
-| Tough as Nails           |   7.0.0.73    |                       |
-| Trash Slot Forge         |    11.0.3     |                       |
-| Valkyrien Skies          | 2.1.0 Beta 11 |                       |
-| Weapon Throw             |      5.7      |                       |
+| Mod Name                 |    Version    | Notes                    |
+|:-------------------------|:-------------:|:-------------------------|
+| Chipped                  |     2.0.1     |                          |
+| Framed Blocks            |    5.11.4     |                          |
+| Serene Seasons           |   7.0.0.15    |                          |
+| Dave's Potioneering      |     0.17      |                          |
+| Epic Knights             |     7.11      |                          |
+| Alex's Delight           |     1.3.3     |                          |
+| Alex's Mobs              |    1.18.6     |                          |
+| Antique Atlas            |     7.1.1     |                          |
+| AppleSkin Forge          |     2.4.0     |                          |
+| Balm                     |     3.2.6     |                          |
+| Bookshelf Forge          |    13.2.53    |                          |
+| Champions Forge          |    1.11.3     |                          |
+| Cosmetic Armour Reworked |      v2a      |                          |
+| Create Brass Coated      |     0.2.2     | Requires Create          | 
+| Create                   |    0.5.0.i    | Requires Architectury    |
+| Charm of Undying Forge   |    5.3.0.0    | Requires Curios API      | 
+| Customisable Elytra      |     1.6.7     |                          |
+| Dungeon Crawl            |    2.3.10     |                          |
+| Dynamic Trees            |     1.0.2     |                          |
+| Eureka!                  | 1.1.0 Beta 9  | Requires Valkyrien Skies |
+| Farmer's Delight         |     1.2.0     |                          |
+| First Aid                |    1.11.1     |                          |
+| Flywheel Forge           |    0.6.8.a    | Requires Create          | 
+| Immersive Weathering     |     3.0.3     |                          |
+| Infinidrill              |     1..16     |                          |
+| Runelic Forge            |    11.0.1     |                          |
+| Sound Physics Forge      |     1.0.6     |                          |
+| Steam Rails              |     1.2.6     |                          |
+| Tough as Nails           |   7.0.0.73    |                          |
+| Trash Slot Forge         |    11.0.3     |                          |
+| Valkyrien Skies          | 2.1.0 Beta 11 |                          |
+| Weapon Throw             |      5.7      |                          |
 
 ### Only client side
 
